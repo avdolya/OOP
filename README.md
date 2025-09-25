@@ -1,3 +1,3 @@
 # OOP Labs 
 Репозиторий для лабораторных работ по объектно-ориентированному программированию (ООП).
-https://github.com/avdolya/OOP/tree/laba_1
+ЛР1: https://github.com/avdolya/OOP/tree/laba_1
